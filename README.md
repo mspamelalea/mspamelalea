@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 
+- 🌱 I’m currently learning Python.
+- 🔭 I’m currently working on SQL Server DBA certification.
+- ⚡ Fun fact: That's me when I was three.
+- 😄 Pronouns: she/her/hers
+- 📫 Check out: pamhamrick.com 
 
 <!--
 **mspamelalea/mspamelalea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
