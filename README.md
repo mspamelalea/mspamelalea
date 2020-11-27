@@ -1,6 +1,6 @@
 ### Hi there 👋 
 - 🌱 I’m currently learning Python.
-- 🔭 I’m currently working on SQL Server DBA certification.
+- 🔭 I’m currently working on Tableau and SQL Server DBA certification.
 - ⚡ Fun fact: That's me when I was three.
 - 😄 Pronouns: she/her/hers
 - 📫 Check out: pamhamrick.com 
